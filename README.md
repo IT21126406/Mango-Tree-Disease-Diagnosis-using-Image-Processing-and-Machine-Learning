@@ -76,7 +76,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/yourusername/mango-disease-diagnosis.git
+   git clone https://github.com/IT21126406/Mango-Tree-Disease-Diagnosis-using-Image-Processing-and-Machine-Learning.git
    cd mango-disease-diagnosis
    ```
 
