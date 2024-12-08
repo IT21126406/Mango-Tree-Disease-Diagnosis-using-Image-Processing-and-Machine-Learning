@@ -70,11 +70,6 @@ The successful implementation of this project requires expertise in:
 - **Supervisor**: Prof. Pradeep Abeygunawardhana
 - **Co-Supervisor**: Ms. Manori Gamage
 
-## Review Panel Details
-
-- **Member's Name**: [To be filled by the Review Panel]  
-- **Signature**: [To be filled by the Review Panel]  
-
 ## Getting Started
 
 To get started with this project, follow these steps:
