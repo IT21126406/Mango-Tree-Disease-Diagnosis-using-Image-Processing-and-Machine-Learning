@@ -51,12 +51,14 @@ The successful implementation of this project requires expertise in:
 - **Main Objective**: Develop an application for diagnosing diseases in mango trees and providing the best solutions using image processing and machine learning algorithms.
 - **Novelty**: The system aims to raise awareness about natural remedies, offer new gardening tips and techniques, and promote Good Agricultural Practices (GAP) to home gardeners.
 
-## Team Members
+## Contributors
 
-- **Himeth Thewnuka**
-- **Dushan Hemathunga**
-- **Sahan Ramanayake**
-- **Navodya Weerasinghe**
+A big thank you to everyone who has contributed to this project.
+
+- **Himeth Thewnuka**(https://github.com/contributor1)
+- **Dushan Hemathunga**(https://github.com/contributor2)
+- **Sahan Ramanayake**(https://github.com/IT21126406)
+- **Navodya Weerasinghe**(https://github.com/contributor4)
 
 ## Supervisor Checklist
 
