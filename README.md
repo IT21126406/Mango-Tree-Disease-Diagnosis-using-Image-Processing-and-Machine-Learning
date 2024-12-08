@@ -55,7 +55,7 @@ The successful implementation of this project requires expertise in:
 
 A big thank you to everyone who has contributed to this project.
 
-- [**Himeth Thewnuka**](https://github.com/IT21020476)
+- [**Himeth Thewnuka**](https://github.com/HimethThewnuka)
 - [**Dushan Hemathunga**](https://github.com/IT21433788)
 - [**Sahan Ramanayake**](https://github.com/IT21126406)
 - [**Navodya Weerasinghe**](https://github.com/IT21111860)
