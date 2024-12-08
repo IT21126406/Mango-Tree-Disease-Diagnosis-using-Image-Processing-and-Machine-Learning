@@ -57,7 +57,7 @@ A big thank you to everyone who has contributed to this project.
 
 - **Himeth Thewnuka**(https://github.com/contributor1)
 - **Dushan Hemathunga**(https://github.com/contributor2)
-- **Sahan Ramanayake**(https://github.com/IT21126406)
+- [**Sahan Ramanayake**](https://github.com/IT21126406)
 - **Navodya Weerasinghe**(https://github.com/contributor4)
 
 ## Supervisor Checklist
